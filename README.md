@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <a href="https://www.youtube.com/c/DjangoSchool">
-    <img src="https://dteam.dev/wp-content/uploads/2023/01/logo-dark.svg" width=600"/>
+    <img src="https://dteam.dev/wp-content/uploads/2023/01/logo-dark.svg" width=600"/>                                                                                
   </a>
 </div>
 
@@ -66,7 +66,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+                                                                                                                               
+<img src="https://komarev.com/ghpvc/?username=Dteam-Company&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Dteam-Company/Dteam-Company** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
