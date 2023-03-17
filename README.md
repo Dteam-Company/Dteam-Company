@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <a href="https://www.youtube.com/c/DjangoSchool">
+  <a href="https://dteam.dev/">
     <img src="https://dteam.dev/wp-content/uploads/2023/01/logo-dark.svg" width=600"/>                                                                                
   </a>
 </div>
